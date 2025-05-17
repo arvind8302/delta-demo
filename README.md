@@ -1,2 +1,2 @@
 # delta-demo
-this is my new commit
+this is my new commit.
